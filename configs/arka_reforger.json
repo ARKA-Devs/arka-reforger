@@ -264,6 +264,21 @@
 		"modId": "5B0D1E4380971EBD",
 		"name": "COALITION Squad Interface",
 		"version": "1.6.13"
+	},
+	{
+		"modId": "5EE51BF388E35B44",
+		"name": "Medical Notifications",
+		"version": "0.1.4"
+	},
+	{
+		"modId": "60D23A92813D0C8E",
+		"name": "Country Flag Patches",
+		"version": "1.0.17"
+	},
+	{
+		"modId": "645749CE93475725",
+		"name": "Llamas Medic Gear",
+		"version": "1.0.1"
 	}
 		]
 	},
