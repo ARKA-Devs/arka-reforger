@@ -1,0 +1,275 @@
+{
+	"game": {
+		"name": "$ARMA_SERVER_NAME",
+		"password": "$ARMA_CLIENT_PASSWORD",
+		"passwordAdmin": "$ARMA_ADMIN_PASSWORD",
+		"admins" : [
+		],
+		"scenarioId": "{6DD58790690E9D29}Missions/ConflictPVERemixedVanilla2_US.conf",
+		"maxPlayers": $ARMA_MAX_PLAYERS,
+		"visible": true,
+		"crossPlatform": true,
+		"supportedPlatforms": [
+			"PLATFORM_PC",
+			"PLATFORM_XBL"
+		],
+		"gameProperties": {
+			"serverMaxViewDistance": 2500,
+			"serverMinGrassDistance": 50,
+			"networkViewDistance": 1000,
+			"disableThirdPerson": true,
+			"fastValidation": true,
+			"battlEye": true,
+			"VONDisableUI": true,
+			"VONDisableDirectSpeechUI": true,
+			"missionHeader": {
+				"m_iPlayerCount": 40,
+				"m_eEditableGameFlags": 6,
+				"m_eDefaultGameFlags": 6,
+				"other": "values"
+			}
+		},
+		"mods": [
+	{
+		"modId": "595F2BF2F44836FB",
+		"name": "RHS - Status Quo",
+		"version": "0.10.3948"
+	},
+	{
+		"modId": "62CCD69DD17E4F2F",
+		"name": "AKI CORE",
+		"version": "1.0.3"
+	},
+	{
+		"modId": "6294F6D5EDD5CA66",
+		"name": "Ronin AI",
+		"version": "1.0.27"
+	},
+	{
+		"modId": "5AC2954C784671B3",
+		"name": "Barrett M82",
+		"version": "1.2.1"
+	},
+	{
+		"modId": "60C4C12DAE90727B",
+		"name": "ACE Medical",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "5EB744C5F42E0800",
+		"name": "ACE Chopping",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "59673B6FBB95459F",
+		"name": "BetterTracers 2.0",
+		"version": "2.0.3"
+	},
+	{
+		"modId": "5AB890B71D748750",
+		"name": "M4 Block II and URG-I",
+		"version": "1.2.9"
+	},
+	{
+		"modId": "6088A3044B7ECBFD",
+		"name": "Keep Gun When Uncon",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "60EAEA0389DB3CC2",
+		"name": "ACE Trenches",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "6273146ADFE8241D",
+		"name": "AH6M",
+		"version": "1.1.14"
+	},
+	{
+		"modId": "5CA6BA2F63DE1174",
+		"name": "M17 Pistol",
+		"version": "1.0.16"
+	},
+	{
+		"modId": "61FE76120DC51DC3",
+		"name": "Modern Optics Pack",
+		"version": "1.0.12"
+	},
+	{
+		"modId": "61957C5C6FB7A773",
+		"name": "H-47 Chinook",
+		"version": "0.5.0"
+	},
+	{
+		"modId": "606C369BAC3F6CC3",
+		"name": "ACE Finger",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "5D9ECAD071E9ECBC",
+		"name": "HMMWV  VARIANTS PACK",
+		"version": "1.0.43"
+	},
+	{
+		"modId": "5D8D003BC5D829EC",
+		"name": "M2010 Enhanced Sniper Rifle",
+		"version": "1.0.9"
+	},
+	{
+		"modId": "611CB1D409001EB0",
+		"name": "ACE Magazine Repack",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "5DBD560C5148E1DA",
+		"name": "ACE Carrying",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "60C4E0B49618CC62",
+		"name": "ACE All in One",
+		"version": "1.2.1"
+	},
+	{
+		"modId": "613B4DD4A91CA144",
+		"name": "LM Suppression",
+		"version": "1.2.1"
+	},
+	{
+		"modId": "5E92F5A4A1B75A75",
+		"name": "Player Map Markers",
+		"version": "1.1.1"
+	},
+	{
+		"modId": "606B100247F5C709",
+		"name": "Bacon Loadout Editor",
+		"version": "1.2.24"
+	},
+	{
+		"modId": "62A154B65A55E57D",
+		"name": "Armband by VLST",
+		"version": "1.0.2"
+	},
+	{
+		"modId": "60E2D7E5A20FABEB",
+		"name": "Keep Abandoned Vehicles",
+		"version": "1.1.2"
+	},
+	{
+		"modId": "632759EBF041FA2D",
+		"name": "CM-SquadRadioSound",
+		"version": "0.0.3"
+	},
+	{
+		"modId": "6276E6E3CC97A22B",
+		"name": "AUS_CORE",
+		"version": "0.1.10"
+	},
+	{
+		"modId": "61B7763A8AEB53B7",
+		"name": "ACE Explosives",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "59A30ACC02650E71",
+		"name": "Night Vision System",
+		"version": "1.1.26"
+	},
+	{
+		"modId": "5D0551624969C92E",
+		"name": "Zeliks Character",
+		"version": "1.1.14"
+	},
+	{
+		"modId": "629B2BA37EFFD577",
+		"name": "WCS_Armament",
+		"version": "1.0.79"
+	},
+	{
+		"modId": "60E573C9B04CC408",
+		"name": "ACE Backblast",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "61B514B96692C049",
+		"name": "ConflictPVERemixedVanilla2.0",
+		"version": "2.2.8"
+	},
+	{
+		"modId": "5C9758250C8C56F1",
+		"name": "Bon Action Animations",
+		"version": "0.0.36"
+	},
+	{
+		"modId": "60C53A9372ED3964",
+		"name": "ACE Compass",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "62C61C209A0145E9",
+		"name": "US Arsenal with MODDED GEAR",
+		"version": "1.0.4"
+	},
+	{
+		"modId": "60C4CE4888FF4621",
+		"name": "ACE Core",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "5AF6E0F075D79473",
+		"name": "M249 Scope Rails",
+		"version": "1.0.10"
+	},
+	{
+		"modId": "60ED3CC6E7E40221",
+		"name": "Sikorsky MH60 DAP Project",
+		"version": "0.6.28"
+	},
+	{
+		"modId": "5CA125536EE7430A",
+		"name": "M110 DMR",
+		"version": "1.0.25"
+	},
+	{
+		"modId": "5AB301290317994A",
+		"name": "Bacon Suppressors",
+		"version": "1.2.6"
+	},
+	{
+		"modId": "5ABD0CB57F7E9EB1",
+		"name": "RIS Laser Attachments",
+		"version": "1.0.79"
+	},
+	{
+		"modId": "620227A25A4BD7DB",
+		"name": "MH60DAP4Conflict",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "59651354B2904BA6",
+		"name": "BetterHitsEffects 3.0 Alpha",
+		"version": "3.0.1"
+	},
+	{
+		"modId": "62128C10AA9AA6EC",
+		"name": "Modern Russians RHS",
+		"version": "1.0.2"
+	},
+	{
+		"modId": "62B6B5976CFCA252",
+		"name": "Conflict COOP - US vs USSR",
+		"version": "1.0.1"
+	}
+		]
+	},
+	"operating": {
+		"lobbyPlayerSynchronise": true,
+		"joinQueue" : {
+			"maxSize" : 12
+		},
+		"disableNavmeshStreaming": [
+			"Soldiers",
+			"BTRlike"
+		]
+	}
+}
