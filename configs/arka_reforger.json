@@ -4,6 +4,7 @@
 		"password": "$ARMA_CLIENT_PASSWORD",
 		"passwordAdmin": "$ARMA_ADMIN_PASSWORD",
 		"admins" : [
+			"76561198069577469"
 		],
 		"scenarioId": "{6DD58790690E9D29}Missions/ConflictPVERemixedVanilla2_US.conf",
 		"maxPlayers": $ARMA_MAX_PLAYERS,
