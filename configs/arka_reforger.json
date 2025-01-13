@@ -17,7 +17,7 @@
 			"serverMaxViewDistance": 2500,
 			"serverMinGrassDistance": 50,
 			"networkViewDistance": 1000,
-			"disableThirdPerson": true,
+			"disableThirdPerson": false,
 			"fastValidation": true,
 			"battlEye": true,
 			"VONDisableUI": true,
