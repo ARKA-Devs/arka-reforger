@@ -1,0 +1,7 @@
+- name: Steam - Download
+  # You may pin to the exact commit or the version.
+  # uses: dhkatz/steam-download@347034b27197b9937f6e0f871b5aad5bec0cdb04
+  uses: dhkatz/steam-download@v1.2.0
+  with:
+    # Steam AppID
+    appid: 1874900
