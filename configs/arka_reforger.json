@@ -259,6 +259,11 @@
 		"modId": "62B6B5976CFCA252",
 		"name": "Conflict COOP - US vs USSR",
 		"version": "1.0.1"
+	},
+	{
+		"modId": "5B0D1E4380971EBD",
+		"name": "COALITION Squad Interface",
+		"version": "1.6.13"
 	}
 		]
 	},
