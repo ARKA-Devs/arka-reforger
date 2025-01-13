@@ -1,3 +1,3 @@
-# arka-reforged
-Arka reforged dedicated server
+# arka-reforger
+Arka reforger dedicated server
 
