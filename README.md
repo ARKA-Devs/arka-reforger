@@ -1,3 +1,3 @@
 # arka-reforger
-Arka reforger dedicated server
+Arma Reforger dedicated server by ARKA
 
