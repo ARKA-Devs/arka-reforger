@@ -295,6 +295,16 @@
 		"modId": "62B6B5976CFCA252",
 		"name": "Conflict COOP - US vs USSR",
 		"version": "1.0.1"
+	},
+	{
+		"modId": "64475CAFE34DE7F5",
+		"name": "Add more armband colors for US",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "61E42AE6714A3CC2",
+		"name": "WCS_Armbands",
+		"version": "1.0.2"
 	}
 		]
 	},
