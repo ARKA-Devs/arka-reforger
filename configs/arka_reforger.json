@@ -32,6 +32,31 @@
 		},
 		"mods": [
 	{
+		"modId": "62B6B5976CFCA252",
+		"name": "Conflict COOP - US vs USSR",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "61B514B96692C049",
+		"name": "ConflictPVERemixedVanilla2.0",
+		"version": "2.2.8"
+	},
+	{
+		"modId": "62E960A6A1BA0985",
+		"name": "CO-OP Conflict PVE",
+		"version": "1.0.2"
+	},
+		{
+		"modId": "633D638929B05EDA",
+		"name": "CO-OP Conflict PVE Fix",
+		"version": "1.0.17"
+	},
+	{
+		"modId": "6294F6D5EDD5CA66",
+		"name": "Ronin AI",
+		"version": "1.0.27"
+	},
+	{
 		"modId": "595F2BF2F44836FB",
 		"name": "RHS - Status Quo",
 		"version": "0.10.3948"
@@ -40,11 +65,6 @@
 		"modId": "62CCD69DD17E4F2F",
 		"name": "AKI CORE",
 		"version": "1.0.3"
-	},
-	{
-		"modId": "6294F6D5EDD5CA66",
-		"name": "Ronin AI",
-		"version": "1.0.27"
 	},
 	{
 		"modId": "5AC2954C784671B3",
@@ -192,11 +212,6 @@
 		"version": "1.2.0"
 	},
 	{
-		"modId": "61B514B96692C049",
-		"name": "ConflictPVERemixedVanilla2.0",
-		"version": "2.2.8"
-	},
-	{
 		"modId": "60C53A9372ED3964",
 		"name": "ACE Compass",
 		"version": "1.2.0"
@@ -250,11 +265,6 @@
 		"modId": "62128C10AA9AA6EC",
 		"name": "Modern Russians RHS",
 		"version": "1.0.2"
-	},
-	{
-		"modId": "62B6B5976CFCA252",
-		"name": "Conflict COOP - US vs USSR",
-		"version": "1.0.1"
 	},
 	{
 		"modId": "5B0D1E4380971EBD",
