@@ -1,0 +1,15 @@
+[Unit]
+Description=Arma Reforger Dedicated Server
+After=network.target
+
+[Service]
+User=steam
+Group=steam
+WorkingDirectory=/home/steam/arma
+ExecStart=/home/steam/arma/ArmaReforgerServer -loadSessionSave -maxFPS 120 -config /home/steam/arka-reforger/server.json
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
+
