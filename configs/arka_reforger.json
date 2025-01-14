@@ -32,21 +32,6 @@
 		},
 		"mods": [
 	{
-		"modId": "62B6B5976CFCA252",
-		"name": "Conflict COOP - US vs USSR",
-		"version": "1.0.1"
-	},
-	{
-		"modId": "61B514B96692C049",
-		"name": "ConflictPVERemixedVanilla2.0",
-		"version": "2.2.8"
-	},
-	{
-		"modId": "6294F6D5EDD5CA66",
-		"name": "Ronin AI",
-		"version": "1.0.27"
-	},
-	{
 		"modId": "595F2BF2F44836FB",
 		"name": "RHS - Status Quo",
 		"version": "0.10.3948"
@@ -55,6 +40,11 @@
 		"modId": "62CCD69DD17E4F2F",
 		"name": "AKI CORE",
 		"version": "1.0.3"
+	},
+	{
+		"modId": "6294F6D5EDD5CA66",
+		"name": "Ronin AI",
+		"version": "1.0.27"
 	},
 	{
 		"modId": "5AC2954C784671B3",
@@ -107,6 +97,11 @@
 		"version": "1.0.12"
 	},
 	{
+		"modId": "5E92F5A4A1B75A75",
+		"name": "Player Map Markers",
+		"version": "1.1.1"
+	},
+	{
 		"modId": "61957C5C6FB7A773",
 		"name": "H-47 Chinook",
 		"version": "0.5.0"
@@ -132,9 +127,9 @@
 		"version": "1.2.0"
 	},
 	{
-		"modId": "60C4E0B49618CC62",
-		"name": "ACE All in One",
-		"version": "1.2.1"
+		"modId": "629B2BA37EFFD577",
+		"name": "WCS_Armament",
+		"version": "1.0.80"
 	},
 	{
 		"modId": "613B4DD4A91CA144",
@@ -142,19 +137,24 @@
 		"version": "1.2.1"
 	},
 	{
-		"modId": "5E92F5A4A1B75A75",
-		"name": "Player Map Markers",
-		"version": "1.1.1"
+		"modId": "630CB4E012A56044",
+		"name": "Improved Blood Compatible",
+		"version": "1.0.2"
+	},
+	{
+		"modId": "611773E9DBCA20AC",
+		"name": "Prefab Optimizations",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "5EE51BF388E35B44",
+		"name": "Medical Notifications",
+		"version": "0.1.4"
 	},
 	{
 		"modId": "606B100247F5C709",
 		"name": "Bacon Loadout Editor",
 		"version": "1.2.25"
-	},
-	{
-		"modId": "62A154B65A55E57D",
-		"name": "Armband by VLST",
-		"version": "1.0.2"
 	},
 	{
 		"modId": "60E2D7E5A20FABEB",
@@ -165,6 +165,11 @@
 		"modId": "632759EBF041FA2D",
 		"name": "CM-SquadRadioSound",
 		"version": "0.0.3"
+	},
+	{
+		"modId": "5B0D1E4380971EBD",
+		"name": "COALITION Squad Interface",
+		"version": "1.6.13"
 	},
 	{
 		"modId": "6276E6E3CC97A22B",
@@ -187,14 +192,19 @@
 		"version": "1.1.14"
 	},
 	{
-		"modId": "629B2BA37EFFD577",
-		"name": "WCS_Armament",
-		"version": "1.0.79"
+		"modId": "60C4E0B49618CC62",
+		"name": "ACE All in One",
+		"version": "1.2.1"
 	},
 	{
 		"modId": "60E573C9B04CC408",
 		"name": "ACE Backblast",
 		"version": "1.2.0"
+	},
+	{
+		"modId": "61B514B96692C049",
+		"name": "ConflictPVERemixedVanilla2.0",
+		"version": "2.2.8"
 	},
 	{
 		"modId": "60C53A9372ED3964",
@@ -212,14 +222,29 @@
 		"version": "1.2.0"
 	},
 	{
+		"modId": "62FCEB51DF8527B6",
+		"name": "Improved Blood Effect",
+		"version": "1.0.9"
+	},
+	{
+		"modId": "60D23A92813D0C8E",
+		"name": "Country Flag Patches",
+		"version": "1.0.17"
+	},
+	{
 		"modId": "5AF6E0F075D79473",
 		"name": "M249 Scope Rails",
 		"version": "1.0.10"
 	},
 	{
-		"modId": "60ED3CC6E7E40221",
-		"name": "Sikorsky MH60 DAP Project",
-		"version": "0.6.28"
+		"modId": "645749CE93475725",
+		"name": "Llamas Medic Gear",
+		"version": "1.0.2"
+	},
+	{
+		"modId": "5C73156675E11A0F",
+		"name": "GM Persistent Loadouts",
+		"version": "1.0.18"
 	},
 	{
 		"modId": "5CA125536EE7430A",
@@ -232,6 +257,11 @@
 		"version": "1.2.6"
 	},
 	{
+		"modId": "6254D456F56BD7D1",
+		"name": "Tactical Patches Pack",
+		"version": "1.0.1"
+	},
+	{
 		"modId": "5ABD0CB57F7E9EB1",
 		"name": "RIS Laser Attachments",
 		"version": "1.0.79"
@@ -240,6 +270,11 @@
 		"modId": "620227A25A4BD7DB",
 		"name": "MH60DAP4Conflict",
 		"version": "1.0.1"
+	},
+	{
+		"modId": "6148E5A6D60AA2BA",
+		"name": "Prefab Optimizations - Glass",
+		"version": "0.2.6"
 	},
 	{
 		"modId": "59651354B2904BA6",
@@ -252,38 +287,13 @@
 		"version": "1.0.2"
 	},
 	{
-		"modId": "5B0D1E4380971EBD",
-		"name": "COALITION Squad Interface",
-		"version": "1.6.13"
+		"modId": "614627BACB991914",
+		"name": "Prefab Optimizations - Core",
+		"version": "0.3.1"
 	},
 	{
-		"modId": "5EE51BF388E35B44",
-		"name": "Medical Notifications",
-		"version": "0.1.4"
-	},
-	{
-		"modId": "60D23A92813D0C8E",
-		"name": "Country Flag Patches",
-		"version": "1.0.17"
-	},
-	{
-		"modId": "645749CE93475725",
-		"name": "Llamas Medic Gear",
-		"version": "1.0.2"
-	},
-		{
-		"modId": "630CB4E012A56044",
-		"name": "Improved Blood Compatible",
-		"version": "1.0.2"
-	},
-	{
-		"modId": "62FCEB51DF8527B6",
-		"name": "Improved Blood Effect",
-		"version": "1.0.9"
-	},
-	{
-		"modId": "6254D456F56BD7D1",
-		"name": "Tactical Patches Pack",
+		"modId": "62B6B5976CFCA252",
+		"name": "Conflict COOP - US vs USSR",
 		"version": "1.0.1"
 	}
 		]
