@@ -271,15 +271,20 @@
 		"name": "Llamas Medic Gear",
 		"version": "1.0.2"
 	},
-	{
-		"modId": "5F0913BAAC69ABF5",
-		"name": "Garbage Collector Patch",
-		"version": "1.1.2"
+		{
+		"modId": "630CB4E012A56044",
+		"name": "Improved Blood Compatible",
+		"version": "1.0.2"
 	},
 	{
-		"modId": "610C3D367350F15D",
-		"name": "SF_Server_Config",
-		"version": "0.1.4"
+		"modId": "62FCEB51DF8527B6",
+		"name": "Improved Blood Effect",
+		"version": "1.0.9"
+	},
+	{
+		"modId": "6254D456F56BD7D1",
+		"name": "Tactical Patches Pack",
+		"version": "1.0.1"
 	}
 		]
 	},
