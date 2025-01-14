@@ -280,6 +280,16 @@
 		"modId": "645749CE93475725",
 		"name": "Llamas Medic Gear",
 		"version": "1.0.1"
+	},
+	{
+		"modId": "5F0913BAAC69ABF5",
+		"name": "Garbage Collector Patch",
+		"version": "1.1.2"
+	},
+	{
+		"modId": "610C3D367350F15D",
+		"name": "SF_Server_Config",
+		"version": "0.1.4"
 	}
 		]
 	},
