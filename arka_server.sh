@@ -13,5 +13,5 @@ fi
 CONFIG_NAME=$1
 
 envsubst < ./configs/$CONFIG_NAME.json > server.json
-cd /home/steam/.local/share/Steam/steamcmd/arma_reforger/
-/home/steam/.local/share/Steam/steamcmd/arma_reforger/ArmaReforgerServer -loadSessionSave -maxFPS 120 -config /home/steam/arka-reforged/server.json
+cd /home/steam/arma 
+/home/steam/arma/ArmaReforgerServer -loadSessionSave -maxFPS 120 -config /home/steam/arka-reforger/server.json
