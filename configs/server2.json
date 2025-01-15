@@ -1,0 +1,353 @@
+{
+	"bindAddress": "0.0.0.0",
+	"bindPort": 2002,  
+	"game": {
+		"name": "[ESP] ARKA Reforger #2 | Conflict Fallujah | PvE",
+		"password": "$ARMA_CLIENT_PASSWORD",
+		"passwordAdmin": "$ARMA_ADMIN_PASSWORD",
+		"admins" : [
+			"76561198069577469"
+		],
+		"scenarioId": "{6DD58790690E9D29}Missions/ConflictPVERemixedVanilla2_US.conf",
+		"maxPlayers": $ARMA_MAX_PLAYERS,
+		"visible": true,
+		"crossPlatform": true,
+		"supportedPlatforms": [
+			"PLATFORM_PC",
+			"PLATFORM_XBL"
+		],
+		"gameProperties": {
+			"serverMaxViewDistance": 3500,
+			"serverMinGrassDistance": 50,
+			"networkViewDistance": 2000,
+			"disableThirdPerson": false,
+			"fastValidation": true,
+			"battlEye": true,
+			"VONDisableUI": true,
+			"VONDisableDirectSpeechUI": true,
+			"missionHeader": {
+				"m_iPlayerCount": 40,
+				"m_eEditableGameFlags": 6,
+				"m_eDefaultGameFlags": 6,
+				"other": "values"
+			}
+		},
+		"mods": [
+	{
+		"modId": "59EAA899751805DF",
+		"name": "Stun Grenade",
+		"version": "1.0.18"
+	},
+	{
+		"modId": "631C3C1AEE9C90BC",
+		"name": "WCS_Sounds",
+		"version": "1.0.12"
+	},
+	{
+		"modId": "61BA4EB5C886D396",
+		"name": "WCS_VehicleLock",
+		"version": "1.0.11"
+	},
+	{
+		"modId": "5EB744C5F42E0800",
+		"name": "ACE Chopping",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "59673B6FBB95459F",
+		"name": "BetterTracers 2.0",
+		"version": "2.0.3"
+	},
+	{
+		"modId": "5AB890B71D748750",
+		"name": "M4 Block II and URG-I",
+		"version": "1.2.9"
+	},
+	{
+		"modId": "60EAEA0389DB3CC2",
+		"name": "ACE Trenches",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "62DED82740D3DDDB",
+		"name": "Custom Attachments Slots",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "613B4DD4A91CA144",
+		"name": "LM Suppression",
+		"version": "1.2.1"
+	},
+	{
+		"modId": "630CB4E012A56044",
+		"name": "Improved Blood Compatible",
+		"version": "1.0.2"
+	},
+	{
+		"modId": "61D57616CAFBB23D",
+		"name": "WCS_LoadoutEditor",
+		"version": "1.0.47"
+	},
+	{
+		"modId": "60E2D7E5A20FABEB",
+		"name": "Keep Abandoned Vehicles",
+		"version": "1.1.2"
+	},
+	{
+		"modId": "632759EBF041FA2D",
+		"name": "CM-SquadRadioSound",
+		"version": "0.0.3"
+	},
+	{
+		"modId": "5F04F5A0383C44B1",
+		"name": "Fallujah Map ByHeine",
+		"version": "3.0.15"
+	},
+	{
+		"modId": "5B0D1E4380971EBD",
+		"name": "COALITION Squad Interface",
+		"version": "1.6.13"
+	},
+	{
+		"modId": "61B7763A8AEB53B7",
+		"name": "ACE Explosives",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "59A30ACC02650E71",
+		"name": "Night Vision System",
+		"version": "1.1.26"
+	},
+	{
+		"modId": "60B524F7A5AE96A8",
+		"name": "Arma Terrain Core",
+		"version": "1.0.9"
+	},
+	{
+		"modId": "62A668F513428630",
+		"name": "WCS_Scopes",
+		"version": "1.0.5"
+	},
+	{
+		"modId": "60C4E0B49618CC62",
+		"name": "ACE All in One",
+		"version": "1.2.1"
+	},
+	{
+		"modId": "614D1A3874A23AD9",
+		"name": "WCS_Interface",
+		"version": "1.0.16"
+	},
+	{
+		"modId": "6148039B7313C031",
+		"name": "WCS_Core",
+		"version": "2.0.175"
+	},
+	{
+		"modId": "60D23A92813D0C8E",
+		"name": "Country Flag Patches",
+		"version": "1.0.17"
+	},
+	{
+		"modId": "6148E5A6D60AA2BA",
+		"name": "Prefab Optimizations - Glass",
+		"version": "0.2.6"
+	},
+	{
+		"modId": "5AB301290317994A",
+		"name": "Bacon Suppressors",
+		"version": "1.2.6"
+	},
+	{
+		"modId": "61A25BD1C99515B5",
+		"name": "WCS_Commands",
+		"version": "2.0.30"
+	},
+	{
+		"modId": "5CAB06A845A6DC18",
+		"name": "Units Map Markers",
+		"version": "1.0.14"
+	},
+	{
+		"modId": "61FA0C31DE4B7D01",
+		"name": "Mikes Fallujah PVE",
+		"version": "3.10.2"
+	},
+	{
+		"modId": "614627BACB991914",
+		"name": "Prefab Optimizations - Core",
+		"version": "0.3.1"
+	},
+	{
+		"modId": "5F0D245931200FD1",
+		"name": "Railway Generator",
+		"version": "1.0.4"
+	},
+	{
+		"modId": "595F2BF2F44836FB",
+		"name": "RHS - Status Quo",
+		"version": "0.10.3948"
+	},
+	{
+		"modId": "5E1735DB431EE29B",
+		"name": "Gulfcoast Buildings",
+		"version": "1.0.29"
+	},
+	{
+		"modId": "5D84C738432BFE6A",
+		"name": "WolfsBuildingPack",
+		"version": "0.1.44"
+	},
+	{
+		"modId": "5D931A33AEB81FA3",
+		"name": "TalibanMod",
+		"version": "1.0.5"
+	},
+	{
+		"modId": "60C4C12DAE90727B",
+		"name": "ACE Medical",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "5EE51BF388E35B44",
+		"name": "Medical Notifications",
+		"version": "0.1.4"
+	},
+	{
+		"modId": "63352DC76828FD23",
+		"name": "Better RHS Multicam",
+		"version": "1.0.7"
+	},
+	{
+		"modId": "620C16F88BFA412E",
+		"name": "Taliban Conversion to USSR",
+		"version": "1.1.1"
+	},
+	{
+		"modId": "606C369BAC3F6CC3",
+		"name": "ACE Finger",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "611CB1D409001EB0",
+		"name": "ACE Magazine Repack",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "5DBD560C5148E1DA",
+		"name": "ACE Carrying",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "61C74A8B647617DA",
+		"name": "WCS_Attachments",
+		"version": "1.0.11"
+	},
+	{
+		"modId": "611773E9DBCA20AC",
+		"name": "Prefab Optimizations",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "615CC2D870A39838",
+		"name": "WCS_Arsenal",
+		"version": "1.0.140"
+	},
+	{
+		"modId": "6088A3044B7ECBFD",
+		"name": "Keep Gun When Uncon",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "615A80027C5C9170",
+		"name": "WCS_Vehicles",
+		"version": "2.0.49"
+	},
+	{
+		"modId": "629B2BA37EFFD577",
+		"name": "WCS_Armament",
+		"version": "1.0.80"
+	},
+	{
+		"modId": "60E573C9B04CC408",
+		"name": "ACE Backblast",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "61B514B96692C049",
+		"name": "ConflictPVERemixedVanilla2.0",
+		"version": "2.2.8"
+	},
+	{
+		"modId": "60C53A9372ED3964",
+		"name": "ACE Compass",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "61FE76120DC51DC3",
+		"name": "Modern Optics Pack",
+		"version": "1.0.12"
+	},
+	{
+		"modId": "60C4CE4888FF4621",
+		"name": "ACE Core",
+		"version": "1.2.0"
+	},
+	{
+		"modId": "62FCEB51DF8527B6",
+		"name": "Improved Blood Effect",
+		"version": "1.0.9"
+	},
+	{
+		"modId": "612F512CD4CB21D5",
+		"name": "WCS_Earplugs",
+		"version": "1.0.9"
+	},
+	{
+		"modId": "6254D456F56BD7D1",
+		"name": "Tactical Patches Pack",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "5ABD0CB57F7E9EB1",
+		"name": "RIS Laser Attachments",
+		"version": "1.0.79"
+	},
+	{
+		"modId": "6146FAED5AAD7C55",
+		"name": "WCS_Helicopters",
+		"version": "2.0.85"
+	},
+	{
+		"modId": "61E42AE6714A3CC2",
+		"name": "WCS_Armbands",
+		"version": "1.0.2"
+	},
+	{
+		"modId": "59651354B2904BA6",
+		"name": "BetterHitsEffects 3.0 Alpha",
+		"version": "3.0.1"
+	},
+	{
+		"modId": "6152CB0BD0684837",
+		"name": "WCS_Clothing",
+		"version": "1.0.23"
+	},
+	{
+		"modId": "63127CB6CDF318ED",
+		"name": "Modern Humvees",
+		"version": "2.0.8"
+	}	
+		]
+	},
+	"operating": {
+		"lobbyPlayerSynchronise": true,
+		"joinQueue" : {
+			"maxSize" : 12
+		},
+		"disableNavmeshStreaming": [
+			"Soldiers",
+			"BTRlike"
+		]
+	}
+}
