@@ -1,5 +1,3 @@
-export ARMA_SERVER_NAME="[ESP] ARKA Reforger #1 | Conflict COOP - US vs USSR | PvE"
-export ARMA_MAX_PLAYERS=64
+export ARMA_MAX_PLAYERS=32
 export ARMA_ADMIN_PASSWORD=""
 export ARMA_CLIENT_PASSWORD=""
-
