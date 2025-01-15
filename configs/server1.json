@@ -1,4 +1,6 @@
 {
+	"bindAddress": "0.0.0.0",
+	"bindPort": 2001,  
 	"game": {
 		"name": "[ESP] ARKA Reforger #1 | Conflict COOP - US vs USSR | PvE",
 		"password": "$ARMA_CLIENT_PASSWORD",
