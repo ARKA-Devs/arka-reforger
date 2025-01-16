@@ -141,7 +141,7 @@
 	{
 		"modId": "630CB4E012A56044",
 		"name": "Improved Blood Compatible",
-		"version": "1.0.2"
+		"version": "1.0.4"
 	},
 	{
 		"modId": "611773E9DBCA20AC",
@@ -226,7 +226,7 @@
 	{
 		"modId": "62FCEB51DF8527B6",
 		"name": "Improved Blood Effect",
-		"version": "1.0.9"
+		"version": "1.0.12"
 	},
 	{
 		"modId": "60D23A92813D0C8E",
@@ -302,6 +302,16 @@
 		"modId": "61E42AE6714A3CC2",
 		"name": "WCS_Armbands",
 		"version": "1.0.2"
+	},
+	{
+		"modId": "629543EC64631D3D",
+		"name": "Modern RUS",
+		"version": "0.0.3"
+	},
+	{
+		"modId": "5D457933C3941DBB",
+		"name": "MP5_MP5SD",
+		"version": "1.0.31"
 	}
 		]
 	},
